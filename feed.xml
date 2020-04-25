@@ -3,7 +3,7 @@
     <title>Exemple</title>
     <link href="https://jeremmie.github.io/exemple/feed.xml" rel="self" />
     <link href="https://jeremmie.github.io/exemple" />
-    <updated>2020-04-25T17:00:18+02:00</updated>
+    <updated>2020-04-25T17:02:21+02:00</updated>
     <author>
         <name>mon entreprise</name>
     </author>
@@ -39,7 +39,7 @@
         <link href="https://jeremmie.github.io/exemple/exemple-site-web.html"/>
         <id>https://jeremmie.github.io/exemple/exemple-site-web.html</id>
 
-        <updated>2020-04-23T12:54:00+02:00</updated>
+        <updated>2020-04-25T17:02:14+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jeremmie.github.io/exemple/media/posts/1/Capture-decran-2020-04-23-a-10.46.01.png" alt="" />
@@ -53,9 +53,9 @@
 <p>Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte.</p>
 <p> </p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-gauche-thumbnail.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-gauche-thumbnail-thumbnail.png" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/joker-panneau.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/joker-panneau-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-thumbnail.png" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-droite-thumbnail.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-droite-thumbnail-thumbnail.png" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/boba-fett.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/boba-fett-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
 <p>Vous avez aussi la possibilité d'insérer des gallery comme ci dessus.</p>
 <p> </p>
