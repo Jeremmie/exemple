@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Exemple</title>
+    <link href="https://jeremmie.github.io/exemple/feed.xml" rel="self" />
+    <link href="https://jeremmie.github.io/exemple" />
+    <updated>2020-04-25T11:53:32+02:00</updated>
+    <author>
+        <name>mon entreprise</name>
+    </author>
+    <id>https://jeremmie.github.io/exemple</id>
+
+    <entry>
+        <title>Mon entreprise:</title>
+        <author>
+            <name>mon entreprise</name>
+        </author>
+        <link href="https://jeremmie.github.io/exemple/mon-entreprise.html"/>
+        <id>https://jeremmie.github.io/exemple/mon-entreprise.html</id>
+
+        <updated>2020-04-23T12:26:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jeremmie.github.io/exemple/media/posts/2/maison-isolee.png" alt="Votre texte " />
+                    Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jeremmie.github.io/exemple/media/posts/2/maison-isolee.png" alt="Votre texte " />
+                Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Portfolio</title>
+        <author>
+            <name>mon entreprise</name>
+        </author>
+        <link href="https://jeremmie.github.io/exemple/exemple-site-web.html"/>
+        <id>https://jeremmie.github.io/exemple/exemple-site-web.html</id>
+
+        <updated>2020-04-23T12:54:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jeremmie.github.io/exemple/media/posts/1/Capture-decran-2020-04-23-a-10.46.01.png" alt="" />
+                     Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jeremmie.github.io/exemple/media/posts/1/Capture-decran-2020-04-23-a-10.46.01.png" alt="" />
+                <p><img class="post__image" src="https://jeremmie.github.io/exemple/media/posts/1/batiment-thumbnail.png" alt="" width="720" height="405"></p>
+<p>Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte.</p>
+<p> </p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-gauche-thumbnail.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-gauche-thumbnail-thumbnail.png" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-thumbnail.png" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-droite-thumbnail.png" ><img src="https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-droite-thumbnail-thumbnail.png" alt="" width="720" height="405"></a></figure>
+</div>
+<p>Vous avez aussi la possibilité d'insérer des gallery comme ci dessus.</p>
+<p> </p>
+<p class="align-right"><img class="post__image" src="https://jeremmie.github.io/exemple/media/posts/1/boba-fett.png" alt="" width="1920" height="1080"></p>
+<p> </p>
+<p>Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte </p>
+<p> </p>
+<p><img class="post__image" src="https://jeremmie.github.io/exemple/media/posts/1/joker-panneau-thumbnail.png" alt="" width="720" height="405"></p>
+<p>Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

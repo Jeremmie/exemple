@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Exemple",
+    "description": "",
+    "home_page_url": "https://jeremmie.github.io/exemple",
+    "feed_url": "https://jeremmie.github.io/exemple/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mon entreprise"
+    },
+    "items": [
+        {
+            "id": "https://jeremmie.github.io/exemple/mon-entreprise.html",
+            "url": "https://jeremmie.github.io/exemple/mon-entreprise.html",
+            "title": "Mon entreprise:",
+            "summary": "Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre&hellip;",
+            "content_html": "Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte",
+            "image": "https://jeremmie.github.io/exemple/media/posts/2/maison-isolee.png",
+            "author": {
+                "name": "mon entreprise"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-23T12:25:30+02:00",
+            "date_modified": "2020-04-23T12:26:45+02:00"
+        },
+        {
+            "id": "https://jeremmie.github.io/exemple/exemple-site-web.html",
+            "url": "https://jeremmie.github.io/exemple/exemple-site-web.html",
+            "title": "Portfolio",
+            "summary": " Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre&hellip;",
+            "content_html": "<p><img class=\"post__image\" src=\"https://jeremmie.github.io/exemple/media/posts/1/batiment-thumbnail.png\" alt=\"\" width=\"720\" height=\"405\"></p>\n<p>Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte.</p>\n<p> </p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-gauche-thumbnail.png\" ><img src=\"https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-gauche-thumbnail-thumbnail.png\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2.png\" ><img src=\"https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-thumbnail.png\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-droite-thumbnail.png\" ><img src=\"https://jeremmie.github.io/exemple/media/posts/1/gallery/the-adventure-part-2-cote-droite-thumbnail-thumbnail.png\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div>\n<p>Vous avez aussi la possibilité d'insérer des gallery comme ci dessus.</p>\n<p> </p>\n<p class=\"align-right\"><img class=\"post__image\" src=\"https://jeremmie.github.io/exemple/media/posts/1/boba-fett.png\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p> </p>\n<p>Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte </p>\n<p> </p>\n<p><img class=\"post__image\" src=\"https://jeremmie.github.io/exemple/media/posts/1/joker-panneau-thumbnail.png\" alt=\"\" width=\"720\" height=\"405\"></p>\n<p>Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte Votre texte</p>",
+            "image": "https://jeremmie.github.io/exemple/media/posts/1/Capture-decran-2020-04-23-a-10.46.01.png",
+            "author": {
+                "name": "mon entreprise"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-23T12:10:29+02:00",
+            "date_modified": "2020-04-23T12:54:00+02:00"
+        }
+    ]
+}
